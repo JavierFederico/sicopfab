@@ -67,9 +67,10 @@ require 'header.php';
 <div class="form-group col-lg-6 col-md-6 col-xs-12">
     <label for="grados">Grados(*):</label>
     <select name="grados" id="grados" class="form-control select-picker" required>
-    <option value="CNL. DAEN">CNL. DAEN</option>   
-    <option value="CAP. AV.">CAP. AV.</option>
-        <option value="TTE. M.">TTE. M.</option>
+    <option value="CNL. DAEN">GRAL. FZA. AÉ.</option>   
+    <option value="CAP. AV.">GRAL. DIV. AÉ.</option>
+    <option value="TTE. M.">GRAL. BRIG. AÉ.</option>
+    <option value="TTE. M.">CNL. DAEN</option>
         <!-- Agrega más opciones según sea necesario -->
     </select>
 </div>
