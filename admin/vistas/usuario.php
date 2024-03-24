@@ -71,24 +71,31 @@ require 'header.php';
     <option value="GRAL. FZA. AE.">GRAL. DIV. AE.</option>
     <option value="GRAL. BRIG. AE">GRAL. BRIG. AE.</option>
     <option value="CNL.">CNL. DAEN</option>
+    <option value="CNL.">CNL. AV</option>
     <option value="TCNL.">TCNL. DEMA</option>
+    <option value="TCNL.">TCNL. AV</option>
+
     <option value="MY.">MY. DEMA</option>
     <option value="MY.">MY. DIM</option>
     <option value="MY.">MY. AV</option>
     <option value="MY.">MY. IM</option>
     <option value="MY.">MY. ING</option>
+
     <option value="CAP.">CAP. AV</option>
     <option value="CAP.">CAP. IM</option>
     <option value="CAP.">CAP. DIM</option>
     <option value="CAP.">CAP. AO</option>
+
     <option value="TTE.">TTE. DIM</option>
     <option value="TTE.">TTE. AV</option>
     <option value="TTE.">TTE. IM</option>
     <option value="TTE.">TTE. AO</option>
+
     <option value="SBTTE.">SBTTE. ING</option>
     <option value="SBTTE.">SBTTE. AV</option>
     <option value="SBTTE.">SBTTE. IM</option>
     <option value="SBTTE.">SBTTE. AO</option>
+
     <option value="SOF.">SOF. MTRE. DESA</option>
     <option value="SOF.">SOF. MY. DESA</option>
     <option value="SOF.">SOF. 1RO. DESA</option>
@@ -104,6 +111,7 @@ require 'header.php';
     <option value="SOF.">SOF. 2DO. DESAM</option>
     <option value="SOF.">SOF. 2DO. MUS</option>
     <option value="SOF.">SOF. INC. MUS</option>
+
     <option value="SGTO.">SGTO. 1RO. TEC</option>
     <option value="SGTO.">SGTO. 1RO. AO</option>
     <option value="SGTO.">SGTO. 1RO. DA</option>
@@ -117,19 +125,41 @@ require 'header.php';
     <option value="SGTO.">SGTO. 2DO. MUS</option>
     <option value="SGTO.">SGTO. INC. MUS</option>
 <!-- personal civil -->
-<option value="TTE. M.">TCNL. PS</option>
-<option value="TTE. M.">MY. PS</option>
-<option value="TTE. M.">CAP. PS</option>
-<option value="TTE. M.">TTE. PS</option>
-<option value="TTE. M.">SBTTE. PS</option>
-<option value="TTE. M.">SOF. 2DO. STA</option>
-<option value="TTE. M.">SOF. INC. STA</option>
-<option value="TTE. M.">SGTO. 1RO. STA</option>
-<option value="TTE. M.">SGTO. 2DO. STA</option>
-<option value="TTE. M.">SGTO. INC. STA</option>
-<option value="TTE. M.">SGTO. 1RO. STA</option>
+<option value="TCNL.">TCNL. PS</option>
+<option value="MY. PS">MY. PS</option>
+<option value="CAP. PS">CAP. PS</option>
+<option value="TTE. PS">TTE. PS</option>
+<option value="SBTTE. PS">SBTTE. PS</option>
 
+<option value="SOF. 2DO. STA">SOF. 2DO. STA</option>
+<option value="SOF. INC. STA">SOF. INC. STA</option>
+<option value="SGTO. 1RO. STA">SGTO. 1RO. STA</option>
+<option value="SGTO. 2DO. STA">SGTO. 2DO. STA</option>
+<option value="SGTO. INC. STA">SGTO. INC. STA</option>
 
+<option value="PROF.">PROF. I</option>
+<option value="PROF.">PROF. II</option>
+<option value="PROF.">PROF. III</option>
+<option value="PROF.">PROF. IV</option>
+<option value="PROF.">PROF. V</option>
+
+<option value="TEC.">TEC. I</option>
+<option value="TEC.">TEC. II</option>
+<option value="TEC.">TEC. III</option>
+<option value="TEC.">TEC. IV</option>
+<option value="TEC.">TEC. V</option>
+
+<option value="ADM.">ADM. I</option>
+<option value="ADM.">ADM. II</option>
+<option value="ADM.">ADM. III</option>
+<option value="ADM.">ADM. IV</option>
+<option value="ADM.">ADM. V</option>
+
+<option value="AP. ADM.">AP. ADM. I</option>
+<option value="AP. ADM.">AP. ADM. II</option>
+<option value="AP. ADM.">AP. ADM. III</option>
+<option value="AP. ADM.">AP. ADM. IV</option>
+<option value="AP. ADM.">AP. ADM. V</option>
 
 
 
