@@ -71,6 +71,69 @@ require 'header.php';
     <option value="CAP. AV.">GRAL. DIV. AÉ.</option>
     <option value="TTE. M.">GRAL. BRIG. AÉ.</option>
     <option value="TTE. M.">CNL. DAEN</option>
+    <option value="TTE. M.">TCNL. DEMA</option>
+    <option value="TTE. M.">MY. DEMA</option>
+    <option value="TTE. M.">MY. DIM</option>
+    <option value="TTE. M.">MY. AV</option>
+    <option value="TTE. M.">MY. IM</option>
+    <option value="TTE. M.">MY. ING</option>
+    <option value="TTE. M.">CAP. DIM</option>
+    <option value="TTE. M.">CAP. AV</option>
+    <option value="TTE. M.">CAP. IM</option>
+    <option value="TTE. M.">CAP. AO</option>
+    <option value="TTE. M.">TTE. DIM</option>
+    <option value="TTE. M.">TTE. AV</option>
+    <option value="TTE. M.">TTE. IM</option>
+    <option value="TTE. M.">TTE. AO</option>
+    <option value="TTE. M.">SBTTE. ING</option>
+    <option value="TTE. M.">SBTTE. AV</option>
+    <option value="TTE. M.">SBTTE. IM</option>
+    <option value="TTE. M.">SBTTE. AO</option>
+    <option value="TTE. M.">SOF. MTRE. DESA</option>
+    <option value="TTE. M.">SOF. MY. DESA</option>
+    <option value="TTE. M.">SOF. 1RO. DESA</option>
+    <option value="TTE. M.">SOF. 1RO. TEC</option>
+    <option value="TTE. M.">SOF. 2DO. DESA</option>
+    <option value="TTE. M.">SOF. 2DO. TEC</option>
+    <option value="TTE. M.">SOF. INC. TEC</option>
+    <option value="TTE. M.">SOF. INC. AO</option>
+    <option value="TTE. M.">SOF. INC. DA</option>
+    <option value="TTE. M.">SOF. MTRE. DESAM</option>
+    <option value="TTE. M.">SOF. MY. DESAM</option>
+    <option value="TTE. M.">SOF. 1RO. DESAM</option>
+    <option value="TTE. M.">SOF. 1RO. MUS</option>
+    <option value="TTE. M.">SOF. 2DO. DESAM</option>
+    <option value="TTE. M.">SOF. 2DO. MUS</option>
+    <option value="TTE. M.">SOF. INC. MUS</option>
+    <option value="TTE. M.">SGTO. 1RO. TEC</option>
+    <option value="TTE. M.">SGTO. 1RO. AO</option>
+    <option value="TTE. M.">SGTO. 1RO. DA</option>
+    <option value="TTE. M.">SGTO. 2DO. TEC</option>
+    <option value="TTE. M.">SGTO. 2DO. AO</option>
+    <option value="TTE. M.">SGTO. 2DO. DA</option>
+    <option value="TTE. M.">SGTO. INC. TEC</option>
+    <option value="TTE. M.">SGTO. INC. AO</option>
+    <option value="TTE. M.">SGTO. INC. DA</option>
+    <option value="TTE. M.">SGTO. 1RO. MUS</option>
+    <option value="TTE. M.">SGTO. 2DO. MUS</option>
+    <option value="TTE. M.">SGTO. INC. MUS</option>
+<!-- personal civil -->
+<option value="TTE. M.">TCNL. PS</option>
+<option value="TTE. M.">MY. PS</option>
+<option value="TTE. M.">CAP. PS</option>
+<option value="TTE. M.">TTE. PS</option>
+<option value="TTE. M.">SBTTE. PS</option>
+<option value="TTE. M.">SOF. 2DO. STA</option>
+<option value="TTE. M.">SOF. INC. STA</option>
+<option value="TTE. M.">SGTO. 1RO. STA</option>
+<option value="TTE. M.">SGTO. 2DO. STA</option>
+<option value="TTE. M.">SGTO. INC. STA</option>
+<option value="TTE. M.">SGTO. 1RO. STA</option>
+
+
+
+
+
         <!-- Agrega más opciones según sea necesario -->
     </select>
 </div>
